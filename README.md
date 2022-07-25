@@ -15,7 +15,7 @@
   
   <a href="https://www.instagram.com/rodrigomeckel17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  <a href="https://www.linkedin.com/in/rodrigo-marinho-174502229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodrigo-meckelburg-174502229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Rodrigomeckel/Rodrigomeckel/blob/output/github-contribution-grid-snake.svg)
  
