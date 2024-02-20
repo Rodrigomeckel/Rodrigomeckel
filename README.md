@@ -22,6 +22,7 @@
     <img align="center" alt="Rodrigo-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="Rodrigo-Js" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Rodrigo-Js" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+     <img align="center" alt="Rodrigo-Js" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   </div>
   
  ### Social Media:
